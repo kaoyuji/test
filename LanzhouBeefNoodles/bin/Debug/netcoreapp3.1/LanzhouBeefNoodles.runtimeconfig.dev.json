@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ligoudan\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ligoudan\\.nuget\\packages"
+    ]
+  }
+}
