@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ligoudan\\source\\repos\\LanzhouBeefNoodles\\LanzhouBeefNoodles\\LanzhouBeefNoodles.csproj": {}
+    "D:\\item\\githubtest\\test\\LanzhouBeefNoodles\\LanzhouBeefNoodles.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ligoudan\\source\\repos\\LanzhouBeefNoodles\\LanzhouBeefNoodles\\LanzhouBeefNoodles.csproj": {
+    "D:\\item\\githubtest\\test\\LanzhouBeefNoodles\\LanzhouBeefNoodles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ligoudan\\source\\repos\\LanzhouBeefNoodles\\LanzhouBeefNoodles\\LanzhouBeefNoodles.csproj",
+        "projectUniqueName": "D:\\item\\githubtest\\test\\LanzhouBeefNoodles\\LanzhouBeefNoodles.csproj",
         "projectName": "LanzhouBeefNoodles",
-        "projectPath": "C:\\Users\\ligoudan\\source\\repos\\LanzhouBeefNoodles\\LanzhouBeefNoodles\\LanzhouBeefNoodles.csproj",
+        "projectPath": "D:\\item\\githubtest\\test\\LanzhouBeefNoodles\\LanzhouBeefNoodles.csproj",
         "packagesPath": "C:\\Users\\ligoudan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ligoudan\\source\\repos\\LanzhouBeefNoodles\\LanzhouBeefNoodles\\obj\\",
+        "outputPath": "D:\\item\\githubtest\\test\\LanzhouBeefNoodles\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ligoudan\\AppData\\Roaming\\NuGet\\NuGet.Config",

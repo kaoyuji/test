@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5yZ7kQKDEaQpSW7PBHY+1t4woBCXpEabDbQzhHPfJB37mvHzz68jGyW6YwtlFr5SlCWBEz90uKz/VGVTuC0qKw==",
+  "dgSpecHash": "shM8c2zsiYQ3EZqC9RtTQtqnChw86tqMrVx1kcqqfnSCfp6/ILIuecmr1G+54HhgWH922heX9bb02ztO83/cfQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ligoudan\\source\\repos\\LanzhouBeefNoodles\\LanzhouBeefNoodles\\LanzhouBeefNoodles.csproj",
+  "projectFilePath": "D:\\item\\githubtest\\test\\LanzhouBeefNoodles\\LanzhouBeefNoodles.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ligoudan\\.nuget\\packages\\bouncycastle.netcore\\1.8.3\\bouncycastle.netcore.1.8.3.nupkg.sha512",
     "C:\\Users\\ligoudan\\.nuget\\packages\\google.protobuf\\3.6.1\\google.protobuf.3.6.1.nupkg.sha512",
